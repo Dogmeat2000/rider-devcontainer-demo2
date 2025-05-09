@@ -1,0 +1,20 @@
+{
+  "name": "Minimal .NET Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "workspaceFolder": "/workspace",
+  "features": {
+    "ghcr.io/devcontainers/features/dotnet:1": {
+      "version": "8.0"
+    }
+  },
+  "remoteUser": "vscode",
+  "customizations": {
+    "jetbrains": {
+      "backend": "JetBrainsInstaller"
+    }
+  },
+  "overrideCommand": false
+}
