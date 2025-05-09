@@ -10,7 +10,7 @@
       "version": "8.0"
     }
   },
-  "remoteUser": "vscode",
+  "remoteUser": "root",
   "customizations": {
     "jetbrains": {
       "backend": "JetBrainsInstaller"
