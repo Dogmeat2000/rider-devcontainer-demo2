@@ -12,7 +12,7 @@
   },
   "customizations": {
     "jetbrains": {
-      "backend": "JetBrainsInstaller"
+      "backend": "Rider"
     }
   },
   "overrideCommand": false
